@@ -70,7 +70,7 @@
 
 ## 🌐 Let's Connect | 联系我
 
-📫 **Email**: 【your-email@example.com】
+📫 **Email**: reymondmeking@gmail.com
 🌍 **Website**: [reymao.com](https://reymao.com)
 
 ⭐ 如果我的项目对你有帮助,顺手 Star 一下就是最好的鼓励。
