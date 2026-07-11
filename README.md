@@ -31,7 +31,6 @@
 
 ## 🌟 About Me | 关于我
 
-
 😄 直接、务实、爱折腾 | Direct, pragmatic, always tinkering
 
 💖 关注 AI 应用、前端工程、开发者体验 | Into AI apps, frontend engineering, DX
@@ -62,7 +61,7 @@
 - 🧩 [**nuwa-selfhosted**](https://github.com/reymondmeking-dot/nuwa-selfhosted) — 自托管软件发现工具
 - 🆓 [**nuwa-free**](https://github.com/reymondmeking-dot/nuwa-free) — 免费 AI 工具工作流合集
 
-如有合作/定制需求,欢迎邮件。
+如有合作或定制需求，欢迎通过 GitHub 或个人网站联系。
 
 *Currently building AI-native content tools, desktop agents, and personal-brand products. Open to collaboration.*
 
@@ -70,7 +69,7 @@
 
 ## 🌐 Let's Connect | 联系我
 
-📫 **Email**: reymondmeking@gmail.com
+💬 **GitHub**: [@reymondmeking-dot](https://github.com/reymondmeking-dot)
 🌍 **Website**: [reymao.com](https://reymao.com)
 
 ⭐ 如果我的项目对你有帮助,顺手 Star 一下就是最好的鼓励。
