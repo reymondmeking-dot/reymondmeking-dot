@@ -1,110 +1,38 @@
-# 👋 Hello, World!
+# ReyMao
 
-<div align="center">
+**工艺工程出身，做能跑起来的 AI 工具。**
 
-### **用代码把想法变成产品，是最上瘾的事**
-*Turning ideas into shipped products — my favorite kind of high*
+我把做现场交付的习惯带到软件里。先跑通真实任务，再用实际结果改下一版。
 
-<br>
+*Process engineer building desktop AI tools and creative workflows.*
 
-### 相信开源、相信复利、相信认真做事的人
-*Believe in open source, compounding, and people who care*
+[个人网站](https://reymao.com/) · [全部公开仓库](https://github.com/reymondmeking-dot?tab=repositories)
 
-<br>
+## 代表项目
 
-### **AI 时代不做旁观者,做手上有活的人**
-*In the AI era, be a maker — not a spectator*
+### [DSH Office · 像素办公室](https://github.com/reymondmeking-dot/dsh-office)
 
-<br>
+派出任务后，多个 AI 助手会分工、并行执行和审核。你可以在像素办公室里查看进度与交付文件。
 
-### 喜欢 TypeScript 与 Python,享受把复杂做简单
-*Love TypeScript & Python — enjoy making complex things simple*
+[中文演示（v1.4）](https://github.com/reymondmeking-dot/dsh-office/blob/main/docs/demo/dsh-office-1.4.0-demo-zh.mp4) · [下载安装](https://github.com/reymondmeking-dot/dsh-office/releases/latest)
 
-<br>
+<a href="https://github.com/reymondmeking-dot/dsh-office">
+  <img src="https://raw.githubusercontent.com/reymondmeking-dot/dsh-office/main/docs/images/v1.5.0-layout-office-zh.png" alt="DSH Office 的中文界面与像素办公室" width="640">
+</a>
 
-### **希望做出的东西,能让别人也想 star 一下**
-*Hope to build things worth starring*
+### 桌面工作流
 
-</div>
+- [**虫洞派 Wormhole Pie**](https://github.com/reymondmeking-dot/wormhole-pie) 把文件整理、桌面宠物和本机 AI 助手放进一个桌面组件。[查看安装包](https://github.com/reymondmeking-dot/wormhole-pie/releases/latest)
+- [**Ark Nuwa Desktop**](https://github.com/reymondmeking-dot/ark-nuwa-desktop) 用 YAML 或 JSON 配置 AI 工作流，支持步骤并行和失败重试。
 
----
+### 设计与内容
 
-## 🌟 About Me | 关于我
+- [**女娲 PPT 生成**](https://github.com/reymondmeking-dot/nuwa-ppt-generation) 从 SVG 设计稿导出可编辑的 PowerPoint，支持演讲备注和动画。
+- [**Planto UI Source**](https://github.com/reymondmeking-dot/planto-ui-source) 用一句话找 React 组件，查看组件来源和安装方式，并在线试配中文字体。[在线体验](https://planto-ai.com/ui/)
+- [**女娲中文字体库**](https://github.com/reymondmeking-dot/nvwa-Chinese-character-open) 预览 24 款中文字体候选，逐款查看授权，也可以安装为 Codex 插件。[查看字体](https://reymondmeking-dot.github.io/nvwa-Chinese-character-open/)
+- [**女娲视频配音**](https://github.com/reymondmeking-dot/nvwa-orchestrator) 把视频转录、翻译和配音，导出带目标语言字幕的版本。
 
-😄 直接、务实、爱折腾 | Direct, pragmatic, always tinkering
+## 最近在做
 
-💖 关注 AI 应用、前端工程、开发者体验 | Into AI apps, frontend engineering, DX
-
----
-
-## 💻 Tech Stack | 技术栈
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
-
-## 🚀 My Journey | 我的旅程
-
-正在做的方向:AI 驱动的内容生成、桌面代理、个人品牌产品化。
-
-代表作:
-- 🎨 [**nuwa-ai-ui**](https://github.com/reymondmeking-dot/nuwa-ai-ui) — 高端 AI 个人品牌落地页
-- 🖥️ [**ark-nuwa-desktop**](https://github.com/reymondmeking-dot/ark-nuwa-desktop) — Tauri 2 + Rust 桌面工作流引擎
-- 📊 [**nuwa-ppt-generation**](https://github.com/reymondmeking-dot/nuwa-ppt-generation) — Agentic SVG-first 演示文稿生成
-- 🧩 [**nuwa-selfhosted**](https://github.com/reymondmeking-dot/nuwa-selfhosted) — 自托管软件发现工具
-- 🆓 [**nuwa-free**](https://github.com/reymondmeking-dot/nuwa-free) — 免费 AI 工具工作流合集
-
-如有合作或定制需求，欢迎通过 GitHub 或个人网站联系。
-
-*Currently building AI-native content tools, desktop agents, and personal-brand products. Open to collaboration.*
-
----
-
-## 🌐 Let's Connect | 联系我
-
-💬 **GitHub**: [@reymondmeking-dot](https://github.com/reymondmeking-dot)
-🌍 **Website**: [reymao.com](https://reymao.com)
-
-⭐ 如果我的项目对你有帮助,顺手 Star 一下就是最好的鼓励。
-
-*A Star means a lot — thanks!* 😜
-
----
-
-## 📊 GitHub Stats | 统计数据
-
-<div align="center">
-
-![ReyMao's GitHub stats](https://github-readme-stats.vercel.app/api?username=reymondmeking-dot&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reymondmeking-dot&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 📈 Activity | 活跃度
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reymondmeking-dot&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🐍 Contribution Snake | 贡献蛇
-
-![Snake animation](https://raw.githubusercontent.com/reymondmeking-dot/reymondmeking-dot/output/github-contribution-grid-snake.svg)
-
----
-
-<div align="center">
-
-### **一行代码,一次交付,一个更好的自己**
-*One line, one ship, one better version of me* 🌱
-
-</div>
+- **对话式商品详情工作台**。把图片、原文和修改意见放进同一段对话，边看预览边改稿，再导出成品。
+- **3D 科普短片**。用动画解释电饭煲怎么判断饭熟了，回看关键机械动作，再调整镜头、剪辑和声音。
