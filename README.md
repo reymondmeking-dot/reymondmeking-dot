@@ -14,9 +14,9 @@
 
 派出任务后，多个 AI 助手会分工、并行执行和审核。你可以在像素办公室里查看进度与交付文件。
 
-[**观看中文演示（v1.4）**](https://github.com/reymondmeking-dot/dsh-office/blob/main/docs/demo/dsh-office-1.4.0-demo-zh.mp4) · [下载安装](https://github.com/reymondmeking-dot/dsh-office/releases/latest)
+[**观看界面动图（v1.4）**](https://raw.githubusercontent.com/reymondmeking-dot/dsh-office/main/docs/demo/dsh-office-1.4.0-preview.gif) · [下载中文演示视频](https://raw.githubusercontent.com/reymondmeking-dot/dsh-office/main/docs/demo/dsh-office-1.4.0-demo-zh.mp4) · [下载安装](https://github.com/reymondmeking-dot/dsh-office/releases/latest)
 
-[![DSH Office v1.5 中文界面，显示像素办公室和任务入口](assets/portfolio/dsh-office.jpg)](https://github.com/reymondmeking-dot/dsh-office/blob/main/docs/demo/dsh-office-1.4.0-demo-zh.mp4)
+[![DSH Office v1.5 中文界面，显示像素办公室和任务入口](assets/portfolio/dsh-office.jpg)](https://raw.githubusercontent.com/reymondmeking-dot/dsh-office/main/docs/demo/dsh-office-1.4.0-preview.gif)
 
 ### 桌面工作流
 
