@@ -22,9 +22,9 @@
 
 <a href="https://github.com/reymondmeking-dot/linktv"><img src="https://raw.githubusercontent.com/reymondmeking-dot/linktv/main/assets/linktv-icon.png" width="80" alt="LinkTV 粉紫投屏图标"></a>
 
-在同一个局域网里共享手机、电视和电脑的画面。选中附近设备，两边各确认一次即可配对。兼容设备支持最高 1080p60 的 H.264 投屏。
+在同一局域网里，Windows 可与安卓手机、Android TV、iPhone 和 Mac 双向投屏。扫描到附近设备后，两边确认即可连接。兼容设备最高支持 1080p60。
 
-[项目说明](https://github.com/reymondmeking-dot/linktv) · [下载 Windows 和安卓版本](https://github.com/reymondmeking-dot/linktv/releases/latest) · [查看 iPhone 和 Mac 源码](https://github.com/reymondmeking-dot/linktv/tree/main/apple)
+[项目说明](https://github.com/reymondmeking-dot/linktv) · [下载新版](https://github.com/reymondmeking-dot/linktv/releases/latest) · [iPhone 和 Mac 使用说明](https://github.com/reymondmeking-dot/linktv/blob/main/apple/README.md)
 
 ### 桌面工作流
 
