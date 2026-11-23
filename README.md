@@ -18,6 +18,14 @@
 
 [![DSH Office v1.5 中文界面，显示像素办公室和任务入口](assets/portfolio/dsh-office.jpg)](https://raw.githubusercontent.com/reymondmeking-dot/dsh-office/main/docs/demo/dsh-office-1.4.0-preview.gif)
 
+### [LinkTV · 双向投屏](https://github.com/reymondmeking-dot/linktv)
+
+<a href="https://github.com/reymondmeking-dot/linktv"><img src="https://raw.githubusercontent.com/reymondmeking-dot/linktv/main/assets/linktv-icon.png" width="80" alt="LinkTV 粉紫投屏图标"></a>
+
+在同一个局域网里共享手机、电视和电脑的画面。选中附近设备，两边各确认一次即可配对。兼容设备支持最高 1080p60 的 H.264 投屏。
+
+[项目说明](https://github.com/reymondmeking-dot/linktv) · [下载 Windows 和安卓版本](https://github.com/reymondmeking-dot/linktv/releases/tag/v2.2.0) · [查看 iPhone 和 Mac 源码](https://github.com/reymondmeking-dot/linktv/tree/main/apple)
+
 ### 桌面工作流
 
 <table>
