@@ -24,7 +24,7 @@
 
 在同一个局域网里共享手机、电视和电脑的画面。选中附近设备，两边各确认一次即可配对。兼容设备支持最高 1080p60 的 H.264 投屏。
 
-[项目说明](https://github.com/reymondmeking-dot/linktv) · [下载 Windows 和安卓版本](https://github.com/reymondmeking-dot/linktv/releases/tag/v2.2.0) · [查看 iPhone 和 Mac 源码](https://github.com/reymondmeking-dot/linktv/tree/main/apple)
+[项目说明](https://github.com/reymondmeking-dot/linktv) · [下载 Windows 和安卓版本](https://github.com/reymondmeking-dot/linktv/releases/latest) · [查看 iPhone 和 Mac 源码](https://github.com/reymondmeking-dot/linktv/tree/main/apple)
 
 ### 桌面工作流
 
